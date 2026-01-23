@@ -31,6 +31,7 @@ I learn best by building thoughtfully, iterating with purpose, and refining syst
 
 If something here sparks a conversation, feel free to reach out. I always enjoy learning from others and sharing perspective.
 
+## 🤝 Connect with me on [LinkedIn](https://www.linkedin.com/in/dawatsering/)
 
 <!--
 **Daway101/Daway101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
