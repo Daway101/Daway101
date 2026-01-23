@@ -4,7 +4,7 @@ I’m a ServiceNow-focused builder who enjoys turning messy, real-world problems
 
 Lately, I’ve been exploring how **AI Agents**, **ServiceNow**, and **cloud tools** can work together to handle incidents, decisions, and workflows more intelligently. I’m especially interested in systems that don’t just run tasks, but actually reason through what to do next.
 
-I learn best by building, breaking things, and fixing them again and this GitHub is where I document that journey.
+I learn best by building thoughtfully, iterating with purpose, and refining systems over time.
 
 ---
 
