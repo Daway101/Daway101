@@ -29,7 +29,7 @@ I learn best by building thoughtfully, iterating with purpose, and refining syst
 - Learning how AI fits into enterprise platforms responsibly  
 - Writing projects that tell a story, not just show code  
 
-If something here sparks a conversation, feel free to reach out. I’m always happy to learn from others and compare notes.
+If something here sparks a conversation, feel free to reach out. I always enjoy learning from others and sharing perspective.
 
 
 <!--
